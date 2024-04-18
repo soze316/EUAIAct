@@ -24,7 +24,7 @@
 3. **Model name** \[Annex VIII, Section C, page 24]. Trade name and any additional unambiguous reference allowing the identification of the foundation model.
 4. **Data sources** \[Annex VIII, Section C, page 24]. Description of the data sources used in the development of the foundation model.
 5. **Capabilities and limitations** \[Annex VIII, Section C, page 24]. Description of the capabilities and limitations of the foundation model.
-6. **Risks and mitigations** \[Annex VIII, Section C, page 24 and Article 28b, paragraph 2a, page 39]. The reasonably foreseeable risks and the measures that have been taken to mitigate them as well as remaining non-mitigated risks with an explanation on the reason why they cannot be mitigated.
+6. **Risks and mitigations** \[Annex VIII, Section C, page 448, Article 27 and Article 28b, paragraph 2a, page 39]. The reasonably foreseeable risks and the measures that have been taken to mitigate them as well as remaining non-mitigated risks with an explanation on the reason why they cannot be mitigated.
 7. **Compute** \[Annex VIII, Section C, page 24]. Description of the training resources used by the foundation model including computing power required, training time, and other relevant information related to the size and power of the model.
 8. **Evaluations** \[Annex VIII, Section C, page 24 as well as Article 28b, paragraph 2c, page 39]. Description of the model’s performance, including on public benchmarks or state of the art industry benchmarks.
 9. **Testing** \[Annex VIII, Section C, page 24 as well as Article 28b, paragraph 2c, page 39]. Description of the results of relevant internal and external testing and optimisation of the model.
